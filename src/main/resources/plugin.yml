@@ -1,0 +1,6 @@
+name: Skip
+authors: [LimeGlass]
+version: @version@
+api-version: 1.13
+depend: [Skript]
+main: me.limeglass.skip.Skip
